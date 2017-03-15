@@ -1,4 +1,4 @@
-<h5><i><b>Pulse and Bloom</b> is a collaberative project done by <b>Saba Ghole, Shilo Shiv Suleman, Rohan Dixit, Heather Stewart, Luke Iseman,</b> and <b>Samuel Clay</b>. I got an opportunity to work with <b>Kavya D</b> and <b>Shilo Shiv Suleman</b> to work on this Art Installation<br><br>
+<h5><i>Pulse and Bloom is a collaberative project done by <b>Saba Ghole, Shilo Shiv Suleman, Rohan Dixit, Heather Stewart, Luke Iseman,</b> and <b>Samuel Clay</b>. I got an opportunity to work with <b>Kavya D</b> and <b>Shilo Shiv Suleman</b> on this Art Installation<br><br>
 Thanks to <b>Ankit Daftery, Avijit Michael</b> and <b>Kalyani Ingole</b>.</i></h5><hr>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Gaiopk1SzeA' frameborder='0' allowfullscreen></iframe></div>
@@ -7,6 +7,8 @@ Pulse and Bloom is an interactive and social art installation that visualizes pa
 Pulse and Bloom consists of 10 lotuses of varying heights of 10 to 14 feet with pulse sensors mounted on the base of the stem. When a participant places their hand upon the pulse sensor, the stem and the flower in the sky start to beat with their heart. Furthermore, when more than one person places their hand upon the pulse sensor, the stem starts to pulse with both participants’ heartbeats, making it possible to watch how heart rates of different people in intimate spaces start to beat in sync, much like fireflies flashing in patterns.
 
 Arranged in a circular matrix, the 10 lotuses contain LED lights wrapped around their stems and LEDs inside the flowers at the top that are activated when individual participants physically interact with the lotus. Each lotus is equipped with two pulse sensors, each located on a Hamsa Hand, that when pressed by one or two participants translates the participants’ heartbeat into pulsing LED lights within the lotus, visually projecting their heart into the flower in the sky. As more people begin to interact with the different lotuses, visualizing their heartbeats in pulsing lights, we begin to see the effects of each person’s heartbeat on the other and the effect of meditative synchronicity unfold.
+
+<h2>The making of Pulse and Bloom</h2>
 
 
 ## Welcome to GitHub Pages
