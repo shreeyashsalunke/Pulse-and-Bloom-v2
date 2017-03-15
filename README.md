@@ -10,21 +10,21 @@ Pulse and Bloom consists of 10 lotuses of varying heights of 10 to 14 feet with 
 Arranged in a circular matrix, the 10 lotuses contain LED lights wrapped around their stems and LEDs inside the flowers at the top that are activated when individual participants physically interact with the lotus. Each lotus is equipped with two pulse sensors, each located on a Hamsa Hand, that when pressed by one or two participants translates the participants’ heartbeat into pulsing LED lights within the lotus, visually projecting their heart into the flower in the sky. As more people begin to interact with the different lotuses, visualizing their heartbeats in pulsing lights, we begin to see the effects of each person’s heartbeat on the other and the effect of meditative synchronicity unfold.
 
 <h2>The making of Pulse and Bloom</h2>
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/01.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/02.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/03.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/04.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/05.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/06.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/07.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/08.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/09.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/10.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/11.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/12.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/13.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/14.jpg">
-<img src="https://github.com/shreeyashsalunke/Pulse-and-Bloom-v2/blob/master/images/15.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/01.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/02.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/03.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/04.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/05.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/06.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/07.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/08.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/09.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/10.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/11.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/12.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/13.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/14.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/15.jpg">
 
 ## Welcome to GitHub Pages
 
