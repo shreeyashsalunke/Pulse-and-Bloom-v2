@@ -1,3 +1,5 @@
+<h5><i>Pulse and Bloom is a collaberative project done by Saba Ghole, Shilo Shiv Suleman, Rohan Dixit, Heather Stewart, Luke Iseman, and Samuel Clay. I got an opportunity to work with Kavya D and Shilo Shiv Suleman to work on this Art Installation<br>
+Thanks to Ankit Daftery, Avijit Michael and Kalyani Ingole.</i></h5><hr>
 
 Pulse and Bloom is an interactive and social art installation that visualizes participants’ heartbeats and invites people to share and sync their human heartbeats in a rhythmic pattern. Pulse and Bloom is one of the largest biofeedback installations of its kind, allowing 40 people to visualize their heartbeats simultaneously.
 
