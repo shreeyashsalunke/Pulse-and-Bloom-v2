@@ -1,5 +1,5 @@
 <h5><i>Pulse and Bloom is a collaberative project done by <b>Saba Ghole, Shilo Shiv Suleman, Rohan Dixit, Heather Stewart, Luke Iseman,</b> and <b>Samuel Clay</b>. I got an opportunity to work with <b>Kavya D</b> and <b>Shilo Shiv Suleman</b> on this Art Installation<br><br>
-Thanks to <b>Avijit Michael</b> and <b>Kalyani Ingole</b>.
+Thanks to <b>Avijit Michael</b> and <b>Kalyani Ingole</b>.<br>
 Special thanks to <b>Ankit Daftery</b> for his support and help.</i></h5><hr>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Gaiopk1SzeA' frameborder='0' allowfullscreen></iframe></div>
