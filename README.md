@@ -52,6 +52,7 @@ The electronics was further divided into 4 stages:
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/07.jpg">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/14.jpg">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/15.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/04.jpg">
 
 <p><a name="software"></a></p>
 <h2>The Software</h2>
@@ -60,11 +61,7 @@ The electronics was further divided into 4 stages:
 <h2>Fabrication of the Lotus Structure and the Aesthetics</h2>
 
 <br>
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/01.jpg" width="32%">
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/02.jpg" width="32%">
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/03.jpg" width="32%">
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/04.jpg">
-
+<h2>Interactions</h2>
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/208532071' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 <br>
