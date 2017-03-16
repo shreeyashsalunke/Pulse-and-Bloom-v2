@@ -61,7 +61,10 @@ The electronics was further divided into 4 stages:
 <h2>Fabrication of the Lotus Structure and the Aesthetics</h2>
 
 <br>
+<hr>
 <h2>Interactions</h2>
+Each lotus flower is blue until a person or two sits down at its base and places their hand on the pulse sensor. There is a Hamsa hand at the base of the lotus and its embedded pulse sensor. When a pulse is read, the lotus flower shoots the heartbeat up the stem and into the petals, where it blooms in a brilliant display of amber. When two people's hands are being measured, both of their heartbeats are shown as two distinct colors.
+
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/208532071' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 <br>
