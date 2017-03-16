@@ -1,15 +1,19 @@
 <h5><i>Pulse and Bloom is a collaberative project done by <b>Saba Ghole, Shilo Shiv Suleman, Rohan Dixit, Heather Stewart, Luke Iseman,</b> and <b>Samuel Clay</b>. I got an opportunity to work with <b>Kavya D</b> and <b>Shilo Shiv Suleman</b> on this Art Installation<br><br>
 Thanks to <b>Avijit Michael</b> and <b>Kalyani Ingole</b>.<br>
-Special thanks to <b>Ankit Daftery</b> for his support and help.</i></h5><hr>
+Special thanks to the awesome <b>Ankit Daftery</b> for his support and help.</i></h5><hr>
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Gaiopk1SzeA' frameborder='0' allowfullscreen></iframe></div>
+<u>add images and gifs of installation</u>
 Pulse and Bloom is an interactive and social art installation that visualizes participants’ heartbeats and invites people to share and sync their human heartbeats in a rhythmic pattern. Pulse and Bloom is one of the largest biofeedback installations of its kind, allowing 40 people to visualize their heartbeats simultaneously.
 
 Pulse and Bloom consists of 10 lotuses of varying heights of 10 to 14 feet with pulse sensors mounted on the base of the stem. When a participant places their hand upon the pulse sensor, the stem and the flower in the sky start to beat with their heart. Furthermore, when more than one person places their hand upon the pulse sensor, the stem starts to pulse with both participants’ heartbeats, making it possible to watch how heart rates of different people in intimate spaces start to beat in sync, much like fireflies flashing in patterns.
 
 Arranged in a circular matrix, the 10 lotuses contain LED lights wrapped around their stems and LEDs inside the flowers at the top that are activated when individual participants physically interact with the lotus. Each lotus is equipped with two pulse sensors, each located on a Hamsa Hand, that when pressed by one or two participants translates the participants’ heartbeat into pulsing LED lights within the lotus, visually projecting their heart into the flower in the sky. As more people begin to interact with the different lotuses, visualizing their heartbeats in pulsing lights, we begin to see the effects of each person’s heartbeat on the other and the effect of meditative synchronicity unfold.
 
-<h2>The making of Pulse and Bloom</h2>
+<h2>Building up the Installation</h2>
+The installation was divided into 3 major parts:
+- The Electronics
+- The Software
+- Fabrication of the Lotus Structure and the Aesthetics
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/01.jpg" width="32%">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/02.jpg" width="32%">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/03.jpg" width="32%">
