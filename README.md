@@ -15,6 +15,22 @@ The installation was divided into 3 major parts:
 - The Electronics
 - The Software
 - Fabrication of the Lotus Structure and the Aesthetics
+<hr>
+<h2>The Electronics</h2>
+The electronics was further divided into 4 stages:
+- Making the custom circuit boards
+- Making the custom pulse sensors
+- Driving the high current LEDs
+- Powering the lotuses
+
+<h3>Making the custom circuit boards</h3>
+<h3>Making the custom pulse sensors</h3>
+<h3>Driving the high current LEDs</h3>
+<h3>Powering the lotuses</h3>
+
+<h2>The Software</h2>
+<h2>Fabrication of the Lotus Structure and the Aesthetics</h2>
+<br>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/01.jpg" width="32%">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/02.jpg" width="32%">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/03.jpg" width="32%">
