@@ -16,6 +16,16 @@ Through our art installation Pulse and Bloom, we want to use technology to make 
 
 Remembering the ancient philosophers and mystics that spoke of the human heart as the vehicle for union between individual and environment, we wish to recreate this experience through modern heart-quantifying biosensors embedded within public art. Scientific studies show that people who spend a few moments connecting with each other, in time can sync their heartbeats to one another. We’d like to see if having public art as a mirror for this can enable people to connect better and with minimal barriers. 
 
+<h2>Interactions</h2>
+Each lotus flower is blue until a person or two sits down at its base and places their hand on the pulse sensor. There is a Hamsa hand at the base of the lotus and its embedded pulse sensor. When a pulse is read, the lotus flower shoots the heartbeat up the stem and into the petals, where it blooms in a brilliant display of amber. When two people's hands are being measured, both of their heartbeats are shown as two distinct colors.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/208532071' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+<br>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/208532049' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+
 <h2>Building up the Installation</h2>
 The installation was divided into 3 major parts:
 - <a href="#electronics">The Electronics</a>
@@ -69,14 +79,6 @@ The electronics was further divided into 4 stages:
 
 <br>
 <hr>
-<h2>Interactions</h2>
-Each lotus flower is blue until a person or two sits down at its base and places their hand on the pulse sensor. There is a Hamsa hand at the base of the lotus and its embedded pulse sensor. When a pulse is read, the lotus flower shoots the heartbeat up the stem and into the petals, where it blooms in a brilliant display of amber. When two people's hands are being measured, both of their heartbeats are shown as two distinct colors.
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/208532071' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-
-<br>
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/208532049' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 ## Welcome to GitHub Pages
 
