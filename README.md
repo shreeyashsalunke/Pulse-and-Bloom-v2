@@ -9,6 +9,13 @@ Pulse and Bloom consists of 10 lotuses of varying heights of 10 to 14 feet with 
 
 Arranged in a circular matrix, the 10 lotuses contain LED lights wrapped around their stems and LEDs inside the flowers at the top that are activated when individual participants physically interact with the lotus. Each lotus is equipped with two pulse sensors, each located on a Hamsa Hand, that when pressed by one or two participants translates the participants’ heartbeat into pulsing LED lights within the lotus, visually projecting their heart into the flower in the sky. As more people begin to interact with the different lotuses, visualizing their heartbeats in pulsing lights, we begin to see the effects of each person’s heartbeat on the other and the effect of meditative synchronicity unfold.
 
+<h2>Background by Shilo Shiv Suleman</h2>
+Connection is at the core of human experience. All traditional cultures have had their spaces of ‘communion’ - of coming together and sharing. These sacred spaces were intensely personal, yet became a focal point to gather and connect.
+
+Through our art installation Pulse and Bloom, we want to use technology to make our inner invisible worlds more visible. Using visual representations of our inner state, we aim to create group experiences of magical synchronicity that make us more aware as individuals and more connected as a community.
+
+Remembering the ancient philosophers and mystics that spoke of the human heart as the vehicle for union between individual and environment, we wish to recreate this experience through modern heart-quantifying biosensors embedded within public art. Scientific studies show that people who spend a few moments connecting with each other, in time can sync their heartbeats to one another. We’d like to see if having public art as a mirror for this can enable people to connect better and with minimal barriers. 
+
 <h2>Building up the Installation</h2>
 The installation was divided into 3 major parts:
 - <a href="#electronics">The Electronics</a>
