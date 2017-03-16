@@ -2,6 +2,7 @@
 Thanks to <b>Avijit Michael</b> and <b>Kalyani Ingole</b>.<br>
 Special thanks to the awesome <b>Ankit Daftery</b> for his support and help.</i></h5><hr>
 
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/pulse-and-bloom-burning-man.gif">
 <u>add images and gifs of installation</u>
 Pulse and Bloom is an interactive and social art installation that visualizes participants’ heartbeats and invites people to share and sync their human heartbeats in a rhythmic pattern. Pulse and Bloom is one of the largest biofeedback installations of its kind, allowing 40 people to visualize their heartbeats simultaneously.
 
