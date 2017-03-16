@@ -3,7 +3,6 @@ Thanks to <b>Avijit Michael</b> and <b>Kalyani Ingole</b>.<br>
 Special thanks to the awesome <b>Ankit Daftery</b> for his support and help.</i></h5><hr>
 
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/pulse-and-bloom-burning-man.gif">
-<u>add images and gifs of installation</u>
 Pulse and Bloom is an interactive and social art installation that visualizes participants’ heartbeats and invites people to share and sync their human heartbeats in a rhythmic pattern. Pulse and Bloom is one of the largest biofeedback installations of its kind, allowing 40 people to visualize their heartbeats simultaneously.
 
 Pulse and Bloom consists of 10 lotuses of varying heights of 10 to 14 feet with pulse sensors mounted on the base of the stem. When a participant places their hand upon the pulse sensor, the stem and the flower in the sky start to beat with their heart. Furthermore, when more than one person places their hand upon the pulse sensor, the stem starts to pulse with both participants’ heartbeats, making it possible to watch how heart rates of different people in intimate spaces start to beat in sync, much like fireflies flashing in patterns.
@@ -12,23 +11,35 @@ Arranged in a circular matrix, the 10 lotuses contain LED lights wrapped around 
 
 <h2>Building up the Installation</h2>
 The installation was divided into 3 major parts:
-- The Electronics
-- The Software
-- Fabrication of the Lotus Structure and the Aesthetics
+- <a href="#electronics">The Electronics</a>
+- <a href="#software">The Software</a>
+- <a href="#fab">Fabrication of the Lotus Structure and the Aesthetics</a>
 <hr>
+
+<p><a name="electronics"></a></p>
 <h2>The Electronics</h2>
 The electronics was further divided into 4 stages:
-- Making the custom circuit boards
-- Making the custom pulse sensors
-- Driving the high current LEDs
-- Powering the lotuses
+- <a href="#boards">Making the custom circuit boards</a>
+- <a href="#pulse-sensors">Making the custom pulse sensors</a>
+- <a href="#leds">Driving the high current LEDs</a>
+- <a href="#power">Powering the lotuses</a>
 
+<p><a name="boards"></a></p>
 <h3>Making the custom circuit boards</h3>
+
+<p><a name="pulse-sensors"></a></p>
 <h3>Making the custom pulse sensors</h3>
+
+<p><a name="leds"></a></p>
 <h3>Driving the high current LEDs</h3>
+
+<p><a name="power"></a></p>
 <h3>Powering the lotuses</h3>
 
+<p><a name="software"></a></p>
 <h2>The Software</h2>
+
+<p><a name="fab"></a></p>
 <h2>Fabrication of the Lotus Structure and the Aesthetics</h2>
 <br>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/01.jpg" width="32%">
