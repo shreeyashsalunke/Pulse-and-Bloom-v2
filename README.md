@@ -26,6 +26,8 @@ The electronics was further divided into 4 stages:
 
 <p><a name="boards"></a></p>
 <h3>Making the custom circuit boards</h3>
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/board/board-schematics.png">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/board/board-preview.png">
 
 <p><a name="pulse-sensors"></a></p>
 <h3>Making the custom pulse sensors</h3>
