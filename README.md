@@ -47,7 +47,7 @@ The main circuit board controls 2 addressable RGB LED Neopixel Strip, 3 sets of 
 <figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/board/board-schematics.png">
 <figcaption align="center"><h5>Board Schematics</h5></figcaption></center></figure>
 <figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/board/board-preview.png"></center>
-<figcaption align="center"><h5>Board Design</h5></figcaption></figure>
+<figcaption align="center"><h5>Board Layout</h5></figcaption></figure>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/08.jpg">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/09.jpg">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/12.jpg">
@@ -57,8 +57,13 @@ The main circuit board controls 2 addressable RGB LED Neopixel Strip, 3 sets of 
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/13.jpg">
 The Pulse Sensor was built by the design made by <i>Samuel Clay</i>. <br>
 Link to the schematics and the brd file <a href="https://github.com/samuelclay/pulse-bloom/tree/master/pulse%20eagle">here</a>.<br>
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/Pulse & Bloom - sensor schematic.png">
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/Pulse & Bloom - sensor layout.png">
+<figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/Pulse & Bloom - sensor schematic.png">
+<figcaption align="center"><h5>Pulse Sensor Schematics</h5></figcaption></center></figure>
+
+<figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/Pulse & Bloom - sensor layout.png">
+<figcaption align="center"><h5>Pulse Sensor Board Layout</h5></figcaption></center></figure>
+
+
 
 <p><a name="leds"></a></p>
 <h3>Driving the high current LEDs</h3>
