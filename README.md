@@ -52,9 +52,11 @@ To convert 12V to 5V, I used an off-the-shelf voltage regulator. This required a
 <figcaption align="center"><h5>Board Schematics</h5></figcaption></center></figure>
 <figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/board/board-preview.png"></center>
 <figcaption align="center"><h5>Board Layout</h5></figcaption></figure>
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/08.jpg">
+<center>
+    <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/08.jpg" width="48%">
+    <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/12.jpg" width="48%">
+</center>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/09.jpg">
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/12.jpg">
 
 
 <p><a name="pulse-sensors"></a></p>
