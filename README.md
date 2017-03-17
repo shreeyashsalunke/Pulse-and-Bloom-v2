@@ -15,7 +15,7 @@ Connection is at the core of human experience. All traditional cultures have had
 
 Through our art installation Pulse and Bloom, we want to use technology to make our inner invisible worlds more visible. Using visual representations of our inner state, we aim to create group experiences of magical synchronicity that make us more aware as individuals and more connected as a community.
 
-Remembering the ancient philosophers and mystics that spoke of the human heart as the vehicle for union between individual and environment, we wish to recreate this experience through modern heart-quantifying biosensors embedded within public art. Scientific studies show that people who spend a few moments connecting with each other, in time can sync their heartbeats to one another. We’d like to see if having public art as a mirror for this can enable people to connect better and with minimal barriers. 
+Remembering the ancient philosophers and mystics that spoke of the human heart as the vehicle for union between individual and environment, we wish to recreate this experience through modern heart-quantifying biosensors embedded within public art. Scientific studies show that people who spend a few moments connecting with each other, in time can sync their heartbeats to one another. We’d like to see if having public art as a mirror for this can enable people to connect better and with minimal barriers.
 
 <h2>Interactions</h2>
 Each lotus flower is blue until a person or two sits down at its base and places their hand on the pulse sensor. There is a Hamsa hand at the base of the lotus and its embedded pulse sensor. When a pulse is read, the lotus flower shoots the heartbeat up the stem and into the petals, where it blooms in a brilliant display of amber. When two people's hands are being measured, both of their heartbeats are shown as two distinct colors.
@@ -43,11 +43,11 @@ The electronics was further divided into 4 stages:<br>
 
 <p><a name="boards"></a></p>
 <h3>Making the custom circuit boards</h3>
-The main circuit board controls 2 addressable RGB LED Neopixel Strip, 3 sets of 3 (i.e. 9) High Power RGB LEDs and takes input from 2 pulse sensors. The LED Strip and the High Power RGB LEDs runs on 12V supply, the ATMega328p microcontrollers runs on 5V and the Pulse Sensors run 3.3V. To convert 12V to 5V, I used an off-the-shelf voltage regulator. This required a +/- connection for both 12V in and 5V out. To convert 5V to 3.3V I used a SMD linear voltage regulator which was soldered directly on the board. The trace to the LED strip and High Power LEDs were thickened to provide upto 3A of current rating, while they consumed only around 1A current to avoid heat dissipation. Finally, all of the terminations are made using 2.5mm and 3.5mm pitch screw terminals. 
+The main circuit board controls 2 addressable RGB LED Neopixel Strip, 3 sets of 3 (i.e. 9) High Power RGB LEDs and takes input from 2 pulse sensors. The LED Strip and the High Power RGB LEDs runs on 12V supply, the ATMega328p microcontrollers runs on 5V and the Pulse Sensors run 3.3V. To convert 12V to 5V, I used an off-the-shelf voltage regulator. This required a +/- connection for both 12V in and 5V out. To convert 5V to 3.3V I used a SMD linear voltage regulator which was soldered directly on the board. The trace to the LED strip and High Power LEDs were thickened to provide upto 3A of current rating, while they consumed only around 1A current to avoid heat dissipation. Finally, all of the terminations are made using 2.5mm and 3.5mm pitch screw terminals.
 <figure><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/board/board-schematics.png" align="center">
 <figcaption align="center">Board Schematics</figcaption></figure>
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/board/board-preview.png">
-Board Design
+<figure><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/board/board-preview.png" align="center">
+<figcaption align="center">Board Design</figcaption></figure>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/08.jpg">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/09.jpg">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/12.jpg">
