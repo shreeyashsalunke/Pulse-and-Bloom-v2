@@ -64,8 +64,13 @@ Link to the schematics and the brd file <a href="https://github.com/samuelclay/p
 
 <p><a name="leds"></a></p>
 <h3>Driving the high current LEDs</h3>
+There are 9 high power LEDs per lotus, split into groups of three, each driven by a constant current driver. Normally a single LED is powered by a single constant current driver. This driver can drive up to 1A of current at 12V. Because we were only using a single channel of color (blue) in the rest state, which is where the lotus spent most of its time, we could triple the number of LEDs driven by a single constant current driver.
+<br>
+We bought these High Power LEDs from a chineese distributor over buying it from Sparkfun. This saved a lot of monet. On the contrary we bought the original picobucks from Sparkfun. We ordered 200 odd LEDs, from which 5% had issues like LED leg broken, one colour not working and so on.
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/led-picobuck-connection-diagram.png">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/10.jpg">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/11.jpg">
+
 
 <p><a name="power"></a></p>
 <h3>Powering the lotuses</h3>
