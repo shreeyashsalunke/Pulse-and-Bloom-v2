@@ -52,10 +52,13 @@ The main circuit board controls 2 addressable RGB LED Neopixel Strip, 3 sets of 
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/09.jpg">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/12.jpg">
 
-<br>
 <p><a name="pulse-sensors"></a></p>
 <h3>Making the custom pulse sensors</h3>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/13.jpg">
+The Pulse Sensor was built by the design made by <i>Samuel Clay</i>. <br>
+Link to the schematics and the brd file <a href="https://github.com/samuelclay/pulse-bloom/tree/master/pulse%20eagle">here</a>.<br>
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/Pulse & Bloom - sensor schematic.png">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/Pulse & Bloom - sensor layout.png">
 
 <p><a name="leds"></a></p>
 <h3>Driving the high current LEDs</h3>
