@@ -54,22 +54,23 @@ The main circuit board controls 2 addressable RGB LED Neopixel Strip, 3 sets of 
 
 <p><a name="pulse-sensors"></a></p>
 <h3>Making the custom pulse sensors</h3>
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/13.jpg">
 The Pulse Sensor was built by the design made by <i>Samuel Clay</i>. <br>
 Link to the schematics and the brd file <a href="https://github.com/samuelclay/pulse-bloom/tree/master/pulse%20eagle">here</a>.<br>
 <figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/Pulse & Bloom - sensor schematic.png">
 <figcaption align="center"><h5>Pulse Sensor Schematics</h5></figcaption></center></figure>
 <figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/Pulse & Bloom - sensor layout.png" width="500px">
 <figcaption align="center"><h5>Pulse Sensor Board Layout</h5></figcaption></center></figure>
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/13.jpg">
+
 
 <p><a name="leds"></a></p>
 <h3>Driving the high current LEDs</h3>
 There are 9 high power LEDs per lotus, split into groups of three, each driven by a constant current driver. Normally a single LED is powered by a single constant current driver. This driver can drive up to 1A of current at 12V. Because we were only using a single channel of color (blue) in the rest state, which is where the lotus spent most of its time, we could triple the number of LEDs driven by a single constant current driver.
-<br>
+<br><br>
 We bought these High Power LEDs from a chineese distributor over buying it from Sparkfun. This saved a lot of monet. On the contrary we bought the original picobucks from Sparkfun. We ordered 200 odd LEDs, from which 5% had issues like LED leg broken, one colour not working and so on.
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/led-picobuck-connection-diagram.png">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/10.jpg">
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/11.jpg">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/11.jpg"><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/led-picobuck-connection-diagram.png">
+
 
 
 <p><a name="power"></a></p>
