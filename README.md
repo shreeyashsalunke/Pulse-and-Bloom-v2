@@ -1,6 +1,6 @@
 <h5><i>Pulse and Bloom is a collaberative project done by <b>Saba Ghole, Shilo Shiv Suleman, Rohan Dixit, Heather Stewart, Luke Iseman,</b> and <b>Samuel Clay</b>. I got an opportunity to work with <b>Kavya D</b> and <b>Shilo Shiv Suleman</b> on this Art Installation<br><br>
 Thanks to <b>Avijit Michael</b> and <b>Kalyani Ingole</b>.<br>
-Special thanks to the awesome <b>Ankit Daftery</b> for his always supporting and helping nature.</i></h5><hr>
+Special thanks to the amazing <b>Ankit Daftery</b> for his always supporting and helping nature.</i></h5><hr>
 
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/pulse-and-bloom-burning-man.gif">
 <br>
@@ -64,13 +64,9 @@ The electronics was further divided into 4 stages:
 <p><a name="power"></a></p>
 <h3>Powering the lotuses</h3>
 
-<h3>Endless cycle of Testing and Debugging :P</h3>
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/05.jpg">
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/06.jpg">
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/07.jpg">
+<h3>Endless cycle of Testing and Debugging :P</h3>\
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/14.jpg">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/15.jpg">
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/04.jpg">
 
 <p><a name="software"></a></p>
 <h2>The Software</h2>
