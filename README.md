@@ -29,19 +29,19 @@ Each lotus flower is blue until a person or two sits down at its base and places
 
 <h2>Building up the Installation</h2>
 The installation was divided into 3 major parts:
-- <a href="#electronics">The Electronics</a>
-- <a href="#software">The Software</a>
-- <a href="#fab">Fabrication of the Lotus Structure and the Aesthetics</a>
+- <a href="#electronics">The Electronics</a><br>
+- <a href="#software">The Software</a><br>
+- <a href="#fab">Fabrication of the Lotus Structure and the Aesthetics</a><br>
 <hr>
 
 <p><a name="electronics"></a></p>
 <h2>The Electronics</h2>
 The electronics was further divided into 4 stages:
-- <a href="#boards">Making the custom circuit boards</a>
-- <a href="#pulse-sensors">Making the custom pulse sensors</a>
-- <a href="#leds">Driving the high current LEDs</a>
-- <a href="#power">Powering the lotuses</a>
-- <a href="#power">Endless cycle of Testing and Debugging :P</a>
+- <a href="#boards">Making the custom circuit boards</a><br>
+- <a href="#pulse-sensors">Making the custom pulse sensors</a><br>
+- <a href="#leds">Driving the high current LEDs</a><br>
+- <a href="#power">Powering the lotuses</a><br>
+- <a href="#power">Endless cycle of Testing and Debugging :P</a><br>
 
 <p><a name="boards"></a></p>
 <h3>Making the custom circuit boards</h3>
