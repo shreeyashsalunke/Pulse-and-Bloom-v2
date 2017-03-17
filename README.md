@@ -59,11 +59,8 @@ The Pulse Sensor was built by the design made by <i>Samuel Clay</i>. <br>
 Link to the schematics and the brd file <a href="https://github.com/samuelclay/pulse-bloom/tree/master/pulse%20eagle">here</a>.<br>
 <figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/Pulse & Bloom - sensor schematic.png">
 <figcaption align="center"><h5>Pulse Sensor Schematics</h5></figcaption></center></figure>
-
-<figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/Pulse & Bloom - sensor layout.png">
+<figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/Pulse & Bloom - sensor layout.png" width="500px">
 <figcaption align="center"><h5>Pulse Sensor Board Layout</h5></figcaption></center></figure>
-
-
 
 <p><a name="leds"></a></p>
 <h3>Driving the high current LEDs</h3>
