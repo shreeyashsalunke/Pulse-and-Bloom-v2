@@ -44,7 +44,7 @@ The electronics was further divided into 4 stages:<br>
 <p><a name="boards"></a></p>
 <h3>Making the custom circuit boards</h3>
 The main circuit board controls 2 addressable RGB LED Neopixel Strip, 3 sets of 3 (i.e. 9) High Power RGB LEDs and takes input from 2 pulse sensors. The LED Strip and the High Power RGB LEDs runs on 12V supply, the ATMega328p microcontrollers runs on 5V and the Pulse Sensors run 3.3V. To convert 12V to 5V, I used an off-the-shelf voltage regulator. This required a +/- connection for both 12V in and 5V out. To convert 5V to 3.3V I used a SMD linear voltage regulator which was soldered directly on the board. The trace to the LED strip and High Power LEDs were thickened to provide upto 3A of current rating, while they consumed only around 1A current to avoid heat dissipation. Finally, all of the terminations are made using 2.5mm and 3.5mm pitch screw terminals. 
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/board/board-schematics.png">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/board/board-schematics.png" alt="Board Schematics">
 <p align="center">Board Schematics</p>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/board/board-preview.png">
 <p align="center">Board Design</p>
